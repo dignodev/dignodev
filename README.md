@@ -11,6 +11,12 @@
     <img src="https://readme-daily-quotes.vercel.app/api?author=Anonymous&quote=Until%20you%20are%20willing%20to%20be%20unsettled%20by%20what%20you%20already%20know,%20what%20you%20know%20will%20never%20become%20greater,%20better,%20or%20more%20useful.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 
+<div align="center">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T61SMR8T)
+
+</div>
+
 
 <!-- <p align="center">
 
@@ -180,13 +186,13 @@
 
 
 
-### Support
+<!-- ### Support
 
 <div align="center">
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T61SMR8T)
 
-</div>
+</div> -->
 
 <!-- <hr>
 <p>
