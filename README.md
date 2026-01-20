@@ -7,6 +7,11 @@
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
 </h3>
 
+ <p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Anonymous&quote=Until%20you%20are%20willing%20to%20be%20unsettled%20by%20what%20you%20already%20know,%20what%20you%20know%20will%20never%20become%20greater,%20better,%20or%20more%20useful.&theme=dark&bg_color=011627&author_color=ffeb95">
+</p>
+
+
 <!-- <p align="center">
 
 
@@ -115,7 +120,13 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dignodev&theme=github_dark)
   
  </div>
+
+
+<!--  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dignodev&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div> -->
  
+
 
 
 <!--  ### ⏱ Streak Stats
