@@ -11,12 +11,18 @@
     <img src="https://readme-daily-quotes.vercel.app/api?author=Anonymous&quote=Until%20you%20are%20willing%20to%20be%20unsettled%20by%20what%20you%20already%20know,%20what%20you%20know%20will%20never%20become%20greater,%20better,%20or%20more%20useful.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 
-<div align="center">
+<!-- <div align="center">
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T61SMR8T)
 
-</div>
+</div> -->
 
+
+<div align="center">
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dignodev)
+
+</div>
 
 <!-- <p align="center">
 
@@ -153,7 +159,7 @@
 
  <div align=center>
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=dignodev&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=dignodev&show_icons=true&locale=en&layout=compact&theme=radical)]()
   
  </div>
  
@@ -182,7 +188,7 @@
 
 <h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
  -->
-------
+<!-- ------ -->
 
 
 
@@ -205,6 +211,6 @@
 </p>
  -->
 
-<hr>
+<!-- <hr> -->
 
 Last Edited on: 20/01/2026
