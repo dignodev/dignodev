@@ -24,8 +24,9 @@
 
 <!-- [![Buy Me a Coffee](Media/Buymeacoffee-button.png)](https://www.buymeacoffee.com/dignodev) -->
 
-<div align="center" style="margin-bottom:20px;">
+<div align="center" >
   <a href="https://www.buymeacoffee.com/dignodev" align="center" ><img align="center"  style="height:50px;margin-bottom:20px;" alt="" src="Media/Buymeacoffee-button.png"></a>
+  <br><br>
 
 </div>
 
