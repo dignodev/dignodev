@@ -20,7 +20,14 @@
 
 <div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dignodev)
+<!-- [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dignodev) -->
+
+<!-- [![Buy Me a Coffee](Media/Buymeacoffee-button.png)](https://www.buymeacoffee.com/dignodev) -->
+
+<div align="center" style="margin-bottom:20px;">
+  <a href="https://www.buymeacoffee.com/dignodev" align="center" ><img align="center"  style="height:60px;" alt="" src="Media/Buymeacoffee-button.png"></a>
+
+</div>
 
 </div>
 
@@ -37,6 +44,8 @@
 ![followers](https://img.shields.io/github/followers/dignodev?label=Github%20followers&style=for-the-badge) 
 <!-- ![views](https://komarev.com/ghpvc/?username=dignodev&label=Views&color=brightgreen&style=flat-square)  -->
   <a href="https://github.com/dignodev/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=dignodev.dignodev"></a>
+
+  <!-- <a href="https://github.com/dignodev/" align="center" ><img align="center"  style="height:60px;" alt="" src="Media/Buymeacoffee-button.png"></a> -->
 
 </div>
 
